@@ -1,0 +1,84 @@
+# ============ #
+# Unity Basics #
+# ============ #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vrgame_BurstDebugInformation_DoNotShip/
+
+# ============ #
+# Visual Studio #
+# ============ #
+
+.vs/
+.vscode/
+*.csproj
+*.sln*
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# ============ #
+# Unity Packages #
+# ============ #
+
+*.unitypackage
+
+# ============ #
+# Crash/Debug #
+# ============ #
+
+sysinfo.txt
+*.stacktrace
+*.log
+*.meta~
+
+# ============ #
+# Android/VR Builds #
+# ============ #
+
+*.apk
+*.aab
+.gradle/
+*.keystore
+*.jks
+.gradle/
+local.properties
+
+# ============ #
+# OS-specific #
+# ============ #
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# ============ #
+# Backups #
+# ============ #
+
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+.utmp/
